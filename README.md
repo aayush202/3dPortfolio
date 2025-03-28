@@ -22,11 +22,7 @@ Welcome to my **3D Portfolio**! This project showcases my work using **HTML, CSS
 ## 📸 Preview
 ![Portfolio Preview](preview.png)
 
-## 💡 Customization
-- Replace `spine-animation.json` and `spine-animation.atlas` with your own Spine animation files.
-- Modify `styles.css` to change the look and feel.
-
 ## 📬 Contact
 Feel free to reach out for collaboration or feedback!
 
-🔗 [LinkedIn](https://www.linkedin.com/in/your-profile) | 📧 your.email@example.com
+🔗 [LinkedIn](www.linkedin.com/in/sharmaaayush07) | 📧 aayush.sharma0330@gmail.com
