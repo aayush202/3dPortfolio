@@ -17,10 +17,6 @@ Welcome to my **3D Portfolio**! This project showcases my work using **HTML, CSS
    ```sh
    git clone https://github.com/your-username/3d-portfolio.git
    ```
-2. Navigate to the project folder:
-   ```sh
-   cd 3d-portfolio
-   ```
 3. Open `index.html` in a browser.
 
 ## 📸 Preview
