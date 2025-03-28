@@ -12,13 +12,6 @@ Welcome to my **3D Portfolio**! This project showcases my work using **HTML, CSS
 - **CSS** for styling and animations
 - **Spine** for 3D animations
 
-## 📂 Setup & Installation
-1. Clone the repository:
-   ```sh
-   git clone https://github.com/your-username/3d-portfolio.git
-   ```
-3. Open `index.html` in a browser.
-
 ## 📸 Preview
 ![Portfolio Preview](preview.png)
 
